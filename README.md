@@ -11,25 +11,103 @@
 - Teleportation with Items
 
 ## Relevant Settings
-| Setting                   | Value | Description                              |
-|---------------------------|-------|------------------------------------------|
-| Gather/Drop Rate          | 1.5   | Default 1.0                              |
-| Inventory Stack Size      | 5.0   | Default 1.0                              |
-| Refinement Rate           | 2.0   | Default 1.0                              |
-| Craft Rate                | 2.0   | Default 1.0                              |
-| Servant Mission Rate      | 1.5   | Default 1.0                              |
-| Servant Convert Rate      | 1.3   | Default 1.0                              |
-| Build Cost Modifier       | 0.8   | Default 1.0                              |
-| Blood Drain Modifier      | 0.7   | Default 1.0                              |
-| Research Time Modifier    | 2.0   | Default 1.0                              |
-| Castle Decay Rate Mod     | 2.0   | Default 1.0                              |
-| Sun Damage Modifier       | 0.8   | Default 1.0                              |
-| Durability Drain          | 0.7   | Default 1.0                              |
-| Garlic Strength Mod       | 0.7   | Default 1.0                              |
-| Clan Size                 | 4     | Default 4                                |
-| Castle Heart Size         | 60 / 100 / 180 / 360 / 600 | Default 30/80/150/250/300 |
-| Castle Floor Limit        | 6     | Default 2                                |
-| Servant Limit             | 4 / 8 / 12 / 16 / 20 | Default 3/5/7/9/11           |
+
+<table>
+  <thead>
+    <tr>
+      <th>Setting</th>
+      <th>Value</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Gather/Drop Rate</td>
+      <td>1.5</td>
+      <td>Multiplier for gathering/dropping resources (default 1.0)</td>
+    </tr>
+    <tr>
+      <td>Inventory Stack Size</td>
+      <td>5.0</td>
+      <td>Multiplier for inventory stack size (default 1.0)</td>
+    </tr>
+    <tr>
+      <td>Refinement Rate</td>
+      <td>2.0</td>
+      <td>Multiplier for refinement speed (default 1.0)</td>
+    </tr>
+    <tr>
+      <td>Craft Rate</td>
+      <td>2.0</td>
+      <td>Multiplier for crafting speed (default 1.0)</td>
+    </tr>
+    <tr>
+      <td>Servant Mission Rate</td>
+      <td>1.5</td>
+      <td>Multiplier for servant mission speed (default 1.0)</td>
+    </tr>
+    <tr>
+      <td>Servant Convert Rate</td>
+      <td>1.3</td>
+      <td>Multiplier for converting servants (default 1.0)</td>
+    </tr>
+    <tr>
+      <td>Build Cost Modifier</td>
+      <td>0.8</td>
+      <td>Modifier for building costs (default 1.0)</td>
+    </tr>
+    <tr>
+      <td>Blood Drain Modifier</td>
+      <td>0.7</td>
+      <td>Modifier for blood drain (default 1.0)</td>
+    </tr>
+    <tr>
+      <td>Research Time Modifier</td>
+      <td>2.0</td>
+      <td>Modifier for research time (default 1.0)</td>
+    </tr>
+    <tr>
+      <td>Castle Decay Rate Mod</td>
+      <td>2.0</td>
+      <td>Modifier for castle decay rate (default 1.0)</td>
+    </tr>
+    <tr>
+      <td>Sun Damage Modifier</td>
+      <td>0.8</td>
+      <td>Modifier for sun damage (default 1.0)</td>
+    </tr>
+    <tr>
+      <td>Durability Drain</td>
+      <td>0.7</td>
+      <td>Modifier for durability drain (default 1.0)</td>
+    </tr>
+    <tr>
+      <td>Garlic Strength Mod</td>
+      <td>0.7</td>
+      <td>Modifier for garlic strength (default 1.0)</td>
+    </tr>
+    <tr>
+      <td>Clan Size</td>
+      <td>4</td>
+      <td>Maximum number of players in a clan (default 4)</td>
+    </tr>
+    <tr>
+      <td>Castle Heart Size</td>
+      <td>60 / 100 / 180 / 360 / 600</td>
+      <td>Size of Castle Heart for different levels (default 30/80/150/250/300)</td>
+    </tr>
+    <tr>
+      <td>Castle Floor Limit</td>
+      <td>6</td>
+      <td>Maximum number of floors in a castle (default 2)</td>
+    </tr>
+    <tr>
+      <td>Servant Limit</td>
+      <td>4 / 8 / 12 / 16 / 20</td>
+      <td>Maximum number of servants per player for different levels (default 3/5/7/9/11)</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Server Rules
 - No intentional base blocking.
@@ -37,11 +115,11 @@
 - Destroying/Griefing a castle of clan mates will result in an immediate ban.
 
 ## Launch Date
-- Launch Date: <t:1684324800:R>
+- Launch Date: March 15, 2024
 
 ## How to Connect
 - On the main menu, navigate to: Play ➯ Online Play ➯ PvE ➯ Direct Connect ➯ Copy/Paste IP Below ➯ Connect.
-- IP Address: ``
+- IP Address: `169.150.247.214:24434`
 
 ## Discord
-- Make sure to join our Discord server for community interaction and updates: [Join Discord](https://discord.gg/)
+- Make sure to join our Discord server for community interaction and updates: [Join Discord](https://discord.gg/gWhz4V5XRR)
